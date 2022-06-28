@@ -1,0 +1,14 @@
+#ignore all text
+*.txt
+
+#ignore all node modules
+node_modules
+
+#ignore files related to api keys
+.env 
+
+#ignore SASS config files
+.sass-cache
+
+#ignore max system files
+.DS_stor
