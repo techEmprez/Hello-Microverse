@@ -12,3 +12,6 @@ node_modules
 
 #ignore max system files
 .DS_stor
+
+#ignore test md
+test.md
